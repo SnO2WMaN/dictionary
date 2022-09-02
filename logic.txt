@@ -23,3 +23,8 @@ VALID	⊨	記号
 エンブラン	Herbrand	人名	
 スコーレム	Skolem	人名	
 ゲーデル	Gödel	人名	
+ふちかんすう	付値関数	名詞	
+クリプキ	Kripke	人名	
+クリプキモデル	Kripkeモデル	名詞	
+クリプキフレーム	Kripkeフレーム	名詞	
+スマリヤン	Smullyan	人名	
